@@ -1,4 +1,4 @@
-<h1>Laraval 5.5 with Vue Single Page Task Management Application<h1>
+<h1>Laraval 5.5 with Vue Single Page Task/Assgniment Management Application<h1>
 <h4>Task Management Application</h4>
 
 The application has following part:
