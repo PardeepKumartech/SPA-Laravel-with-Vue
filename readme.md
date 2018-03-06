@@ -7,6 +7,7 @@ The application has following part:
 
 
 Prerequisites and the Process
-Install node.js npm 
-Laravel Mix
-
+<ul>
+  <li>Install node.js npm </li>
+  <li>Laravel Mix</li>
+</ul>
